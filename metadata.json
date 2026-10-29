@@ -1,0 +1,6 @@
+{
+  "name": "AuraDeck",
+  "description": "Professional AI-driven slide decks with glassmorphism aesthetics, intelligent layout engine, drag-and-drop canvas, and real-time collaboration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
